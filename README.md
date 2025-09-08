@@ -1,4 +1,5 @@
-# 🚀 Project ADAMS42
+# 🚀 Project ADAMS42  
+🏆 **2024 Global Nominee – NASA Space Apps Challenge**
 
 ## 🌌 High-Level Summary
 
@@ -11,6 +12,8 @@ So, what do you want to know? 🌠
 ### 🎯 [Project Demo](https://drive.google.com/drive/folders/1fHWuC-N7tkANy-Jvrm-GeaBBq-0a08Ex?usp=sharing)
 
 ### 🌐 [Final Project](https://adams42.vercel.app/)
+
+---
 
 ## 🛠️ Project Details
 
@@ -28,6 +31,8 @@ We designed the chat format to be more user-friendly and intuitive. The biggest 
 
 By using this conversational format, we were able to meet our goal, steering away from traditional database searches and creating a more engaging experience.
 
+---
+
 ## 🧠 ADAMS42: Much More Than a Chatbot!
 
 ADAMS42 connects to NASA’s exoplanet database via an API. After accessing the API, it retrieves the data and performs an embedding, storing the information in a collection within the **Qdrant vector database**. The AI queries this collection to generate a response for the user.
@@ -35,6 +40,8 @@ ADAMS42 connects to NASA’s exoplanet database via an API. After accessing the 
 We ensured that this process is highly optimized to prevent disruptions in the user experience, which might cause disengagement.
 
 We developed all the code for ADAMS42, utilizing **Groq's LLM AI** to access NASA’s exoplanet API and hold conversations about it. The AI is capable of handling a broad range of questions while ensuring that responses remain accurate and tied to the data it is trained on, avoiding overly creative or incorrect information.
+
+---
 
 ## 💻 Technologies Used
 
@@ -58,10 +65,14 @@ We developed all the code for ADAMS42, utilizing **Groq's LLM AI** to access NAS
 - **Vercel** (Frontend)
 - **Railway** (Backend)
 
+---
+
 ## 📂 Project Repositories
 
-- **Backend**: [ADAMS42 Backend Repository](https://github.com/Ary-Pedro/adams42-withServer)
+- **Backend**: [ADAMS42 Backend Repository](https://github.com/Ary-Pedro/adams42-withServer)  
 - **Frontend**: [ADAMS42 Frontend Repository](https://github.com/SamuellRock/Adams42-front)
+
+---
 
 ## 🧠 Use of Artificial Intelligence
 
@@ -69,18 +80,23 @@ We utilized AI extensively during the development process, including testing res
 
 **Note**: AI was **not** used to create any artwork.
 
+---
+
 ## 🌍 Project Information
 
-This project was developed as part of the **NASA CHALLENGER**, hosted by **UniLaSalle**.
+This project was developed as part of the **NASA CHALLENGER**, hosted by **UniLaSalle**.  
+✨ **Award:** 2024 **Global Nominee** at the **NASA Space Apps Challenge**.  
 
 ### 👥 Team Members and Their Roles:
-- **[Samuel Elias](https://github.com/SamuellRock)**: Visionary and Creator, contributed across all areas
-- **[Glenda Rangel](https://github.com/glendarangelb)**: Front-End
-- **[Bernardo Cezar](https://github.com/bercezar)**: API Handling
-- **[Pedro Vinicius](https://github.com/Pedro-2077)**: Back-End
-- **[Pedro Cezar](https://github.com/Ary-Pedro)**: Deployment and AI Research
+- **[Samuel Elias](https://github.com/SamuellRock)**: Visionary and Creator, contributed across all areas  
+- **[Glenda Rangel](https://github.com/glendarangelb)**: Front-End  
+- **[Bernardo Cezar](https://github.com/bercezar)**: API Handling  
+- **[Pedro Vinicius](https://github.com/Pedro-2077)**: Back-End  
+- **[Pedro Cezar](https://github.com/Ary-Pedro)**: Deployment and AI Research  
+
+---
 
 ## 📸 Visuals 
+
 ### 💬 Chat with ADAMS42
 <img width="1862" height="921" alt="image" src="https://github.com/user-attachments/assets/bc23fd00-d127-49a9-9a63-48baed694e32" />
-
