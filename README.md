@@ -80,3 +80,7 @@ This project was developed as part of the **NASA CHALLENGER**, hosted by **UniLa
 - **[Pedro Vinicius](https://github.com/Pedro-2077)**: Back-End
 - **[Pedro Cezar](https://github.com/Ary-Pedro)**: Deployment and AI Research
 
+## 📸 Visuals 
+### 💬 Chat with ADAMS42
+<img width="1862" height="921" alt="image" src="https://github.com/user-attachments/assets/bc23fd00-d127-49a9-9a63-48baed694e32" />
+
